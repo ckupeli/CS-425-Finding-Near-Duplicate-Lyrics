@@ -7,7 +7,7 @@ There are 2 different implementation. First one is using k-Shingling or word-bas
 ## Results and Comparison
 1st approach is much slower than MapReduce implementation. The reason behind this result is that MapReduce uses parallelization, and depending on the number of workers the runtime shortens. 1st approach took around 8 to 9 hours and MapReduce took at most 45 minutes.
 ## Contributors
-Emre Gürçay
-Hüseyin Emre Başar
-Erdem Adaçal
-Çağatay Küpeli
+* Emre Gürçay
+* Hüseyin Emre Başar
+* Erdem Adaçal
+* Çağatay Küpeli
